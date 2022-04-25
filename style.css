@@ -1,0 +1,96 @@
+
+
+body{
+
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.container{
+
+margin-bottom: 100px;
+
+
+}
+
+.navbar{
+
+    border-radius: 10px;
+
+}
+.oragne-bg{
+
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.carousel-item{
+
+    padding: 20px 40px;
+}
+.price{
+
+    color: #ff136f;
+}
+
+.btn-one{
+
+   background-image: linear-gradient(to bottom,#ff5898 0%,#ff136f 100%);
+   color: #fff;
+   border: none;
+   border-radius: 8px;
+   padding: 9px 25px;
+   cursor: pointer;
+}
+.cate-1,.cate-2, .cate-3{
+    padding: 10px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.cate-1{
+
+    background-color: orange;
+
+}
+.cate-2{
+
+    background-color: orchid;
+}
+.cate-3{
+    background-color: blue;
+}
+
+.categories img{
+    width: 100px;
+}
+
+
+.card{
+border: none;
+box-shadow: 5px 5px 10px lightgray;
+
+}
+
+.card-footer{
+
+    background-color: white;
+    border-top: none;
+}
+
+#contact{
+
+height: 300px;
+
+}
+
+#contact h6{
+
+    color: gray;
+}
+.footer{
+    text-align: center;
+}
